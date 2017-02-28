@@ -1,0 +1,614 @@
+{ 
+    "_id" : ObjectId("58a26d83130bee20d046bad2"), 
+    "name" : "悠来顺韩国简餐", 
+    "description" : "商家配送", 
+    "deliveryTime" : NumberInt(30), 
+    "score" : 4.8, 
+    "serviceScore" : 4.4, 
+    "foodScore" : NumberInt(5), 
+    "rankRate" : 70.2, 
+    "minPrice" : NumberInt(0), 
+    "deliveryPrice" : NumberInt(3), 
+    "ratingCount" : NumberInt(30), 
+    "sellCount" : NumberInt(123), 
+    "bulletin" : "本店所有料理材料均由韩国进口，更严格的要求，只为做出最正宗的韩式料理", 
+    "infos" : "该商家支持发票,请下单写好发票抬头,品类:日韩料理,深圳市南山区西丽街道西丽新维村学生公寓26栋北楼壹楼7号商铺,营业时间:10:20-21:00", 
+    "pics" : [
+        "http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg", 
+        "http://fuss10.elemecdn.com/b/6c/75bd250e5ba69868f3b1178afbda3jpeg.jpeg", 
+        "http://fuss10.elemecdn.com/f/96/3d608c5811bc2d902fc9ab9a5baa7jpeg.jpeg", 
+        "http://fuss10.elemecdn.com/6/ad/779f8620ff49f701cd4c58f6448b6jpeg.jpeg"
+    ], 
+    "avatar" : [
+        "https://fuss10.elemecdn.com/7/6d/1dbcf8a839c6bbaee328fd78320c6png.png"
+    ], 
+    "supports" : [
+        {
+            "type" : "2", 
+            "description" : "满20减7，满40减11(不与美食活动同享)（限在线支付）", 
+            "_id" : ObjectId("58a26d83130bee20d0412345")
+        }, 
+        {
+            "type" : "1", 
+            "description" : "新用户下单立减15.0元(不与其它活动同享)", 
+            "_id" : ObjectId("58a26d83130bee20d0454321")
+        }
+    ], 
+    "__v" : NumberInt(0), 
+    "sellerType" : NumberInt(3)
+}
+{ 
+    "_id" : ObjectId("58a26d83130bee20d046baa4"), 
+    "name" : "原味汤粉王", 
+    "description" : "商家配送", 
+    "deliveryTime" : NumberInt(36), 
+    "score" : NumberInt(4), 
+    "serviceScore" : 4.2, 
+    "foodScore" : 4.1, 
+    "rankRate" : 67.3, 
+    "minPrice" : NumberInt(20), 
+    "deliveryPrice" : NumberInt(5), 
+    "ratingCount" : NumberInt(60), 
+    "sellCount" : NumberInt(112), 
+    "bulletin" : "原味汤粉王（九祥岭店）", 
+    "infos" : "该商家支持发票,请下单写好发票抬头；品类:盖浇饭，汤粉面,深圳市南山区西丽街道南田路九祥岭村东区130栋102号,营业时间:10:30-20:00", 
+    "pics" : [
+        "https://fuss10.elemecdn.com/c/2e/3d54f32ff5fee8e5cc7e0dcc364bfpng.png", 
+        "https://fuss10.elemecdn.com/1/1a/d389bc13c3275aed18aa7b3ffdb22jpeg.jpeg", 
+        "https://fuss10.elemecdn.com/8/46/ae2b47de05a24befe4cf370812208jpeg.jpeg"
+    ], 
+    "avatar" : [
+        "https://fuss10.elemecdn.com/c/2e/3d54f32ff5fee8e5cc7e0dcc364bfpng.png"
+    ], 
+    "supports" : [
+        {
+            "type" : "4", 
+            "description" : "已加入“外卖保”计划，食品安全有保障", 
+            "_id" : ObjectId("58a26d83130bee20d046baa5")
+        }
+    ], 
+    "__v" : NumberInt(0), 
+    "sellerType" : NumberInt(2)
+}
+{ 
+    "_id" : ObjectId("58a26d83130bee20d046baa6"), 
+    "name" : "饭戒（西丽店）", 
+    "description" : "蜂鸟专送", 
+    "deliveryTime" : NumberInt(42), 
+    "score" : 4.4, 
+    "serviceScore" : 4.3, 
+    "foodScore" : 4.5, 
+    "rankRate" : 68.2, 
+    "minPrice" : NumberInt(0), 
+    "deliveryPrice" : NumberInt(2), 
+    "ratingCount" : NumberInt(12), 
+    "sellCount" : NumberInt(168), 
+    "bulletin" : "饭戒——一个神奇的互联网外卖！单点饮料甜品我们不配送哦深圳职业技术学院东校区、西校区、北校区的亲们请注意，感谢亲选择我们家的餐，由于配送员无法进入亲们的学校送餐，无法配送至你们楼下，如您订我们家的餐请与配送员联系您最合适的位置取餐，一旦配送员接单后，本店将无法退款，谢谢您的合作。", 
+    "infos" : "该商家支持发票,请下单写好发票抬头,品类:简餐，盖浇饭,深圳市南山区西丽街道文苑路丽苑二村一栋116号商铺,营业时间:10:00-21:00", 
+    "pics" : [
+        "http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg", 
+        "http://fuss10.elemecdn.com/b/6c/75bd250e5ba69868f3b1178afbda3jpeg.jpeg", 
+        "http://fuss10.elemecdn.com/f/96/3d608c5811bc2d902fc9ab9a5baa7jpeg.jpeg", 
+        "http://fuss10.elemecdn.com/6/ad/779f8620ff49f701cd4c58f6448b6jpeg.jpeg"
+    ], 
+    "avatar" : [
+        "https://fuss10.elemecdn.com/2/f0/5a44c18d902beef8f10a142802cb0png.png"
+    ], 
+    "supports" : [
+        {
+            "type" : "3", 
+            "description" : "「开春四折」大派送", 
+            "_id" : ObjectId("58a26d83130bee20d046baaa")
+        }, 
+        {
+            "type" : "1", 
+            "description" : "新用户下单立减20.0元(不与其它活动同享)", 
+            "_id" : ObjectId("58a26d83130bee20d046baa9")
+        }, 
+        {
+            "type" : "4", 
+            "description" : "「暖心暖胃」饭戒3.6折大礼包", 
+            "_id" : ObjectId("58a26d83130bee20d046baa8")
+        }, 
+        {
+            "type" : "2", 
+            "description" : "满25减19，满30减21，满40减24，满60减44，满90减60(不与美食活动同享)（限在线支付）", 
+            "_id" : ObjectId("58a26d83130bee20d046baa7")
+        }
+    ], 
+    "__v" : NumberInt(0), 
+    "sellerType" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("58a26d83130bee20d046baab"), 
+    "name" : "艾克力休闲餐厅", 
+    "description" : "商家配送", 
+    "deliveryTime" : NumberInt(39), 
+    "score" : 3.5, 
+    "serviceScore" : 3.5, 
+    "foodScore" : 3.5, 
+    "rankRate" : 42.3, 
+    "minPrice" : NumberInt(16), 
+    "deliveryPrice" : NumberInt(2), 
+    "ratingCount" : NumberInt(3), 
+    "sellCount" : NumberInt(128), 
+    "bulletin" : "联系电话：13652357207 394694", 
+    "infos" : "品类:简餐，盖浇饭,深圳市南山区西丽办事处新围旺棠工业区22栋一层36号,营业时间:10:20-21:00", 
+    "pics" : [
+        "http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg", 
+        "http://fuss10.elemecdn.com/b/6c/75bd250e5ba69868f3b1178afbda3jpeg.jpeg", 
+        "http://fuss10.elemecdn.com/f/96/3d608c5811bc2d902fc9ab9a5baa7jpeg.jpeg", 
+        "http://fuss10.elemecdn.com/6/ad/779f8620ff49f701cd4c58f6448b6jpeg.jpeg"
+    ], 
+    "avatar" : [
+        "https://fuss10.elemecdn.com/3/1d/fa3051a7dc657e8162d2a62f90e96png.png"
+    ], 
+    "supports" : [
+        {
+            "type" : "2", 
+            "description" : "满20减7，满40减11(不与美食活动同享)（限在线支付）", 
+            "_id" : ObjectId("58a26d83130bee20d046baad")
+        }, 
+        {
+            "type" : "1", 
+            "description" : "新用户下单立减15.0元(不与其它活动同享)", 
+            "_id" : ObjectId("58a26d83130bee20d046baac")
+        }
+    ], 
+    "__v" : NumberInt(0), 
+    "sellerType" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("58a26d83130bee20d046baae"), 
+    "name" : "流星花园", 
+    "description" : "商家配送", 
+    "deliveryTime" : NumberInt(48), 
+    "score" : 4.9, 
+    "serviceScore" : 4.9, 
+    "foodScore" : 4.9, 
+    "rankRate" : 88.5, 
+    "minPrice" : NumberInt(48), 
+    "deliveryPrice" : NumberInt(20), 
+    "ratingCount" : NumberInt(88), 
+    "sellCount" : NumberInt(154), 
+    "bulletin" : "那一天，我们邂逅了浪漫、收获了爱情，让我们重温流星花园般的永恒记忆；岁月渐长，唯真情与爱意愈久弥香。", 
+    "infos" : "rnrnrn该商家支持发票,请下单写好发票抬头,品类:鲜花,深圳市南山区粤海街道登良路124号102C,营业时间:10:00-22:00", 
+    "pics" : [
+        "http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg", 
+        "http://fuss10.elemecdn.com/b/6c/75bd250e5ba69868f3b1178afbda3jpeg.jpeg", 
+        "http://fuss10.elemecdn.com/f/96/3d608c5811bc2d902fc9ab9a5baa7jpeg.jpeg", 
+        "http://fuss10.elemecdn.com/6/ad/779f8620ff49f701cd4c58f6448b6jpeg.jpeg"
+    ], 
+    "avatar" : [
+        "https://fuss10.elemecdn.com/f/72/7f91b47d8ba1e72f4f7da5bc3f748jpeg.jpeg"
+    ], 
+    "supports" : [
+        {
+            "type" : "3", 
+            "description" : "该商家支持开发票，开票订单金额10.0元起，请在下单时填写好发票抬头", 
+            "_id" : ObjectId("58a26d83130bee20d046baaf")
+        }
+    ], 
+    "__v" : NumberInt(0), 
+    "sellerType" : NumberInt(6)
+}
+{ 
+    "_id" : ObjectId("58a26d83130bee20d046bab2"), 
+    "name" : "粥品香坊", 
+    "description" : "蜂鸟专送", 
+    "deliveryTime" : NumberInt(38), 
+    "score" : 4.2, 
+    "serviceScore" : 4.1, 
+    "foodScore" : 4.3, 
+    "rankRate" : 69.2, 
+    "minPrice" : NumberInt(20), 
+    "deliveryPrice" : NumberInt(4), 
+    "ratingCount" : NumberInt(24), 
+    "sellCount" : NumberInt(90), 
+    "bulletin" : "粥品香坊其烹饪粥料的秘方源于中国千年古法，在融和现代制作工艺，由世界烹饪大师屈浩先生领衔研发。坚守纯天然、0添加的良心品质深得消费者青睐，发展至今成为粥类的引领品牌。是2008年奥运会和2013年园博会指定餐饮服务商。", 
+    "infos" : "该商家支持发票,请下单写好发票抬头,品类:其他菜系,包子粥店,北京市昌平区回龙观西大街龙观置业大厦底商B座102单元1340,营业时间:10:00-20:30", 
+    "pics" : [
+        "http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg", 
+        "http://fuss10.elemecdn.com/b/6c/75bd250e5ba69868f3b1178afbda3jpeg.jpeg", 
+        "http://fuss10.elemecdn.com/f/96/3d608c5811bc2d902fc9ab9a5baa7jpeg.jpeg", 
+        "http://fuss10.elemecdn.com/6/ad/779f8620ff49f701cd4c58f6448b6jpeg.jpeg"
+    ], 
+    "avatar" : [
+        "http://static.galileo.xiaojukeji.com/static/tms/seller_avatar_256px.jpg"
+    ], 
+    "supports" : [
+        {
+            "type" : "1", 
+            "description" : "在线支付满28减5", 
+            "_id" : ObjectId("58a26d83130bee20d046bab6")
+        }, 
+        {
+            "type" : "3", 
+            "description" : "该商家支持发票,请下单写好发票抬头", 
+            "_id" : ObjectId("58a26d83130bee20d046bab5")
+        }, 
+        {
+            "type" : "2", 
+            "description" : "VC无限橙果汁全场8折", 
+            "_id" : ObjectId("58a26d83130bee20d046bab4")
+        }, 
+        {
+            "type" : "4", 
+            "description" : "已加入“外卖保”计划,食品安全保障", 
+            "_id" : ObjectId("58a26d83130bee20d046bab3")
+        }
+    ], 
+    "__v" : NumberInt(0), 
+    "sellerType" : NumberInt(2)
+}
+{ 
+    "_id" : ObjectId("58a26d83130bee20d046bab7"), 
+    "name" : "奶盖贡茶（留仙洞店）", 
+    "description" : "蜂鸟专送", 
+    "deliveryTime" : NumberInt(32), 
+    "score" : 4.6, 
+    "serviceScore" : 4.3, 
+    "foodScore" : NumberInt(5), 
+    "rankRate" : 69.1, 
+    "minPrice" : NumberInt(20), 
+    "deliveryPrice" : NumberInt(5), 
+    "ratingCount" : NumberInt(15), 
+    "sellCount" : NumberInt(61), 
+    "bulletin" : "奶盖贡茶（留仙洞店）", 
+    "infos" : "品类:奶茶果汁,深圳市南山区西丽街道留仙大道2188号天悦湾花园粤方广场一楼层L103号,营业时间:10:30-22:00", 
+    "pics" : [
+        "http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg", 
+        "http://fuss10.elemecdn.com/b/6c/75bd250e5ba69868f3b1178afbda3jpeg.jpeg", 
+        "http://fuss10.elemecdn.com/f/96/3d608c5811bc2d902fc9ab9a5baa7jpeg.jpeg", 
+        "http://fuss10.elemecdn.com/6/ad/779f8620ff49f701cd4c58f6448b6jpeg.jpeg"
+    ], 
+    "avatar" : [
+        "https://fuss10.elemecdn.com/f/91/fdd3950f5366241c4489b670ec767png.png"
+    ], 
+    "supports" : [
+        {
+            "type" : "4", 
+            "description" : "已加入“外卖保”计划，食品安全有保障", 
+            "_id" : ObjectId("58a26d83130bee20d046bab8")
+        }
+    ], 
+    "__v" : NumberInt(0), 
+    "sellerType" : NumberInt(5)
+}
+{ 
+    "_id" : ObjectId("58a26d83130bee20d046babb"), 
+    "name" : "必胜客（西丽店）", 
+    "description" : "蜂鸟专送", 
+    "deliveryTime" : NumberInt(46), 
+    "score" : 4.6, 
+    "serviceScore" : 4.3, 
+    "foodScore" : NumberInt(5), 
+    "rankRate" : 68.4, 
+    "minPrice" : NumberInt(20), 
+    "deliveryPrice" : NumberInt(5), 
+    "ratingCount" : NumberInt(29), 
+    "sellCount" : NumberInt(481), 
+    "bulletin" : "必胜客（西丽店）", 
+    "infos" : "rn该商家支持发票,请下单写好发票抬头,品类:披萨意面，西餐,深圳市南山区留仙大道路南国丽城花园1栋101一层,营业时间:10:30-22:00", 
+    "pics" : [
+        "http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg", 
+        "http://fuss10.elemecdn.com/b/6c/75bd250e5ba69868f3b1178afbda3jpeg.jpeg", 
+        "http://fuss10.elemecdn.com/f/96/3d608c5811bc2d902fc9ab9a5baa7jpeg.jpeg", 
+        "http://fuss10.elemecdn.com/6/ad/779f8620ff49f701cd4c58f6448b6jpeg.jpeg"
+    ], 
+    "avatar" : [
+        "https://fuss10.elemecdn.com/b/86/01f4620140dd82cf9ab70c0deb38fjpeg.jpeg"
+    ], 
+    "supports" : [
+        {
+            "type" : "4", 
+            "description" : "双人分享套餐B", 
+            "_id" : ObjectId("58a26d83130bee20d046bac4")
+        }, 
+        {
+            "type" : "4", 
+            "description" : "双人分享套餐C", 
+            "_id" : ObjectId("58a26d83130bee20d046bac3")
+        }, 
+        {
+            "type" : "1", 
+            "description" : "新用户下单立减20.0元(不与其它活动同享)", 
+            "_id" : ObjectId("58a26d83130bee20d046bac2")
+        }, 
+        {
+            "type" : "2", 
+            "description" : "满100减15(不与美食活动同享)（限在线支付）", 
+            "_id" : ObjectId("58a26d83130bee20d046bac1")
+        }, 
+        {
+            "type" : "3", 
+            "description" : "莳萝芦笋珍鲑意面半价专享，下单立减27元", 
+            "_id" : ObjectId("58a26d83130bee20d046bac0")
+        }, 
+        {
+            "type" : "4", 
+            "description" : "双人分享套餐A", 
+            "_id" : ObjectId("58a26d83130bee20d046babf")
+        }, 
+        {
+            "type" : "4", 
+            "description" : "四人分享套餐", 
+            "_id" : ObjectId("58a26d83130bee20d046babe")
+        }, 
+        {
+            "type" : "3", 
+            "description" : "该商家支持开发票，请在下单时填写好发票抬头", 
+            "_id" : ObjectId("58a26d83130bee20d046babd")
+        }, 
+        {
+            "type" : "4", 
+            "description" : "已加入“外卖保”计划，食品安全有保障", 
+            "_id" : ObjectId("58a26d83130bee20d046babc")
+        }
+    ], 
+    "__v" : NumberInt(0), 
+    "sellerType" : NumberInt(4)
+}
+{ 
+    "_id" : ObjectId("58a26d83130bee20d046bac5"), 
+    "name" : "状元三及第", 
+    "description" : "商家配送", 
+    "deliveryTime" : NumberInt(42), 
+    "score" : 4.7, 
+    "serviceScore" : 4.4, 
+    "foodScore" : NumberInt(5), 
+    "rankRate" : NumberInt(70), 
+    "minPrice" : NumberInt(16), 
+    "deliveryPrice" : NumberInt(2), 
+    "ratingCount" : NumberInt(30), 
+    "sellCount" : NumberInt(707), 
+    "bulletin" : "饭点较忙，电话常占线。请确保您的电话号码正确及电话畅通，以便送餐员能及时联系上您。为了能及时用餐，希望大家提前1小时以上预定，避开高峰拥堵", 
+    "infos" : "该商家支持发票,请下单写好发票抬头,品类:简餐，三及第,深圳市南山区西丽街道旺棠工业区22栋24号铺,营业时间:09:30-21:55", 
+    "pics" : [
+        "https://fuss10.elemecdn.com/8/46/ae2b47de05a24befe4cf370812208jpeg.jpeg", 
+        "https://fuss10.elemecdn.com/d/1c/839a949d72464d45d1078565ef6c9jpeg.jpeg", 
+        "https://fuss10.elemecdn.com/8/46/ae2b47de05a24befe4cf370812208jpeg.jpeg"
+    ], 
+    "avatar" : [
+        "https://fuss10.elemecdn.com/e/3a/60e19c912e7f5e063508295ed7077jpeg.jpeg"
+    ], 
+    "supports" : [
+        {
+            "type" : "2", 
+            "description" : "满16减4，满30减8，满50减10(不与美食活动同享)（限在线支付）", 
+            "_id" : ObjectId("58a26d83130bee20d046bac7")
+        }, 
+        {
+            "type" : "1", 
+            "description" : "新用户下单立减15.0元(不与其它活动同享)", 
+            "_id" : ObjectId("58a26d83130bee20d046bac6")
+        }
+    ], 
+    "__v" : NumberInt(0), 
+    "sellerType" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("58a26d83130bee20d046bac8"), 
+    "name" : "爱尔cake蛋糕店", 
+    "description" : "商家配送", 
+    "deliveryTime" : NumberInt(93), 
+    "score" : 4.2, 
+    "serviceScore" : 4.1, 
+    "foodScore" : 4.3, 
+    "rankRate" : 56.8, 
+    "minPrice" : NumberInt(0), 
+    "deliveryPrice" : NumberInt(0), 
+    "ratingCount" : NumberInt(20), 
+    "sellCount" : NumberInt(324), 
+    "bulletin" : "爱尔cake，做给爱人吃的蛋糕！致力于为深圳人们提供专业的、高品质的、方便快捷的生日蛋糕配送服务。始终坚持以天然、健康、放心的食品原则，用做给爱人吃的态度，做好每一个蛋糕。专业做配送，深圳全城(含所有原关外区域)专人直送到家，最快1小时送达。服务至晚上12点喔！", 
+    "infos" : "rn该商家支持发票,请下单写好发票抬头,品类:蛋糕,深圳市福田区梅林街道黄祠巷79号梅安居102铺,营业时间:07:00-24:00", 
+    "pics" : [
+        "http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg", 
+        "http://fuss10.elemecdn.com/b/6c/75bd250e5ba69868f3b1178afbda3jpeg.jpeg", 
+        "http://fuss10.elemecdn.com/f/96/3d608c5811bc2d902fc9ab9a5baa7jpeg.jpeg", 
+        "http://fuss10.elemecdn.com/6/ad/779f8620ff49f701cd4c58f6448b6jpeg.jpeg"
+    ], 
+    "avatar" : [
+        "https://fuss10.elemecdn.com/0/3a/bce85958f282aaf23bd670589833djpeg.jpeg"
+    ], 
+    "supports" : [
+        {
+            "type" : "3", 
+            "description" : "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头", 
+            "_id" : ObjectId("58a26d83130bee20d046bacd")
+        }, 
+        {
+            "type" : "2", 
+            "description" : "满29减12，满169减22，满229减32(不与美食活动同享)（限在线支付）", 
+            "_id" : ObjectId("58a26d83130bee20d046bacc")
+        }, 
+        {
+            "type" : "4", 
+            "description" : "新春有礼", 
+            "_id" : ObjectId("58a26d83130bee20d046bacb")
+        }, 
+        {
+            "type" : "3", 
+            "description" : "满1.0元赠送刀叉盘蜡烛(10人份)生日帽1份", 
+            "_id" : ObjectId("58a26d83130bee20d046baca")
+        }, 
+        {
+            "type" : "1", 
+            "description" : "新用户下单立减20.0元(不与其它活动同享)", 
+            "_id" : ObjectId("58a26d83130bee20d046bac9")
+        }
+    ], 
+    "__v" : NumberInt(0), 
+    "sellerType" : NumberInt(6)
+}
+{ 
+    "_id" : ObjectId("58a26d83130bee20d046bace"), 
+    "name" : "世富茶餐厅（西丽店）", 
+    "description" : "蜂鸟专送", 
+    "deliveryTime" : NumberInt(39), 
+    "score" : 4.2, 
+    "serviceScore" : 4.3, 
+    "foodScore" : 4.4, 
+    "rankRate" : 67.1, 
+    "minPrice" : NumberInt(20), 
+    "deliveryPrice" : NumberInt(5), 
+    "ratingCount" : NumberInt(49), 
+    "sellCount" : NumberInt(733), 
+    "bulletin" : "註：1：焗飯、煲仔飯、蒸类系列即點即做，需時35分鐘，請耐心等候！↵       2：小炒系列不配送白飯！", 
+    "infos" : "该商家支持发票,请下单写好发票抬头,品类:简餐，粤菜,深圳市南山区西丽街道新围石岭工业区1栋首层11-12-13-14号,营业时间:10:00-23:20", 
+    "pics" : [
+        "http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg", 
+        "http://fuss10.elemecdn.com/b/6c/75bd250e5ba69868f3b1178afbda3jpeg.jpeg", 
+        "http://fuss10.elemecdn.com/f/96/3d608c5811bc2d902fc9ab9a5baa7jpeg.jpeg", 
+        "http://fuss10.elemecdn.com/6/ad/779f8620ff49f701cd4c58f6448b6jpeg.jpeg"
+    ], 
+    "avatar" : [
+        "https://fuss10.elemecdn.com/7/76/a1b563a81fbbac8d2dcc99bc1f173jpeg.jpeg"
+    ], 
+    "supports" : [
+        {
+            "type" : "1", 
+            "description" : "新用户下单立减20.0元(不与其它活动同享)", 
+            "_id" : ObjectId("58a26d83130bee20d046bad1")
+        }, 
+        {
+            "type" : "2", 
+            "description" : "满25减5，满30减7(不与美食活动同享)（限在线支付）", 
+            "_id" : ObjectId("58a26d83130bee20d046bad0")
+        }, 
+        {
+            "type" : "4", 
+            "description" : "已加入“外卖保”计划，食品安全有保障", 
+            "_id" : ObjectId("58a26d83130bee20d046bacf")
+        }
+    ], 
+    "__v" : NumberInt(0), 
+    "sellerType" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("58b383ca4bbdca0b0468bf89"), 
+    "name" : "8号便利店", 
+    "description" : "蜂鸟专送", 
+    "deliveryTime" : NumberInt(23), 
+    "score" : NumberInt(5), 
+    "serviceScore" : 3.5, 
+    "foodScore" : 3.1, 
+    "rankRate" : 87.4, 
+    "minPrice" : NumberInt(8), 
+    "deliveryPrice" : NumberInt(0), 
+    "ratingCount" : NumberInt(20), 
+    "sellCount" : NumberInt(98), 
+    "bulletin" : "本店已加盟饿了么网上订餐！", 
+    "sellerType" : NumberInt(8), 
+    "infos" : "该商家支持发票,请下单写好发票抬头,深圳市南山区沙河街道世界花园樱花居2栋101号铺,营业时间:10:00-20:30", 
+    "pics" : [
+        "https://fuss10.elemecdn.com/3/ff/94c861654e3cd4ee292d0748e54e2jpeg.jpeg", 
+        "", 
+        "https://fuss10.elemecdn.com/0/73/77e30e1ddbd02807438d68b4e2085jpeg.jpeg"
+    ], 
+    "avatar" : [
+        "https://fuss10.elemecdn.com/2/ee/0fe6c608da41141170eb057751066jpeg.jpeg"
+    ], 
+    "supports" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b383ca4bbdca0b0468bf8a"), 
+    "name" : "美宜佳便利店（白石洲店）", 
+    "description" : "蜂鸟专送", 
+    "deliveryTime" : NumberInt(48), 
+    "score" : 4.5, 
+    "serviceScore" : 4.9, 
+    "foodScore" : 4.4, 
+    "rankRate" : 60.6, 
+    "minPrice" : NumberInt(5), 
+    "deliveryPrice" : NumberInt(39), 
+    "ratingCount" : NumberInt(45), 
+    "sellCount" : NumberInt(702), 
+    "bulletin" : "叫外卖，上饿了么", 
+    "sellerType" : NumberInt(8), 
+    "infos" : "该商家支持发票,请下单写好发票抬头,深圳市南山区沙河街道白石洲246号,营业时间:10:00-20:30", 
+    "pics" : [
+        "https://fuss10.elemecdn.com/2/0e/2444fb8d10a1e606d4231333132f0jpeg.jpeg", 
+        "https://fuss10.elemecdn.com/6/d4/4c370e159efc5e24dfa261ab91de3jpeg.jpeg", 
+        "https://fuss10.elemecdn.com/b/2a/65466b231f4aaf04459dce50b5b2fjpeg.jpeg", 
+        "https://fuss10.elemecdn.com/a/37/10e13b3612be7381d1f473f657581jpeg.jpeg"
+    ], 
+    "avatar" : [
+        "https://fuss10.elemecdn.com/b/55/926427a0fd7b65b68db0bcb4847b1jpeg.jpeg"
+    ], 
+    "supports" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b383ca4bbdca0b0468bf84"), 
+    "name" : "27Fruits甘草水果", 
+    "description" : "蜂鸟专送", 
+    "deliveryTime" : NumberInt(40), 
+    "score" : 4.6, 
+    "serviceScore" : NumberInt(5), 
+    "foodScore" : 3.1, 
+    "rankRate" : NumberInt(66), 
+    "minPrice" : NumberInt(5), 
+    "deliveryPrice" : NumberInt(20), 
+    "ratingCount" : NumberInt(24), 
+    "sellCount" : NumberInt(223), 
+    "bulletin" : "本店已加盟饿了么网上订餐！", 
+    "sellerType" : NumberInt(7), 
+    "infos" : "该商家支持发票,请下单写好发票抬头,深圳市南山区南头街道正云路马家龙街心公园商业区1-1,营业时间:10:00-20:30", 
+    "pics" : [
+        "https://fuss10.elemecdn.com/0/a8/26f10ffc9c4f90285ff5c889663c8jpeg.jpeg", 
+        "https://fuss10.elemecdn.com/e/54/20e40b5524db8553e108cb85d232ajpeg.jpeg"
+    ], 
+    "avatar" : [
+        "https://fuss10.elemecdn.com/c/68/8d18405c6e899364d0f1202d5e662png.png"
+    ], 
+    "supports" : [
+        {
+            "type" : "1", 
+            "description" : "已加入“外卖保”计划，食品安全有保障", 
+            "_id" : ObjectId("58b383ca4bbdca0b0468bf86")
+        }, 
+        {
+            "type" : "2", 
+            "description" : "准时必达，超时秒赔", 
+            "_id" : ObjectId("58b383ca4bbdca0b0468bf85")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b383ca4bbdca0b0468bf87"), 
+    "name" : "水果姐姐", 
+    "description" : "蜂鸟专送", 
+    "deliveryTime" : NumberInt(51), 
+    "score" : 4.4, 
+    "serviceScore" : 3.2, 
+    "foodScore" : 3.6, 
+    "rankRate" : 86.3, 
+    "minPrice" : NumberInt(0), 
+    "deliveryPrice" : NumberInt(18), 
+    "ratingCount" : NumberInt(86), 
+    "sellCount" : NumberInt(735), 
+    "bulletin" : "水果姐姐致力于为轻体力人士提供营养均衡的水果搭配", 
+    "sellerType" : NumberInt(7), 
+    "infos" : "该商家支持发票,请下单写好发票抬头,深圳市南山区南海大道4052号晶品居裙楼141,营业时间:10:00-20:30", 
+    "pics" : [
+
+    ], 
+    "avatar" : [
+        "https://fuss10.elemecdn.com/9/83/f499161b5d1e8f531e8135f7b7574jpeg.jpeg"
+    ], 
+    "supports" : [
+        {
+            "type" : "1", 
+            "description" : "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头", 
+            "_id" : ObjectId("58b383ca4bbdca0b0468bf88")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}

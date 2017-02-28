@@ -1,0 +1,298 @@
+{ 
+    "_id" : ObjectId("58ae2e51ebc2ed3c0c511c6c"), 
+    "seller_id" : ObjectId("58a26d83130bee20d046bac5"), 
+    "user_id" : ObjectId("58a4224b6f03d330149966f0"), 
+    "orderTime" : 1487810129230.0, 
+    "sumPrice" : 39.5, 
+    "address" : "李佳慧 先生 13760173057\n\r深圳市南山区深职院北校区a523", 
+    "status" : NumberInt(2), 
+    "deliveryTime" : 1487810584403.0, 
+    "foods" : [
+        {
+            "name" : "叉烧饭+雪碧", 
+            "count" : NumberInt(1), 
+            "price" : 37.5, 
+            "_id" : ObjectId("58ae2e51ebc2ed3c0c511c6d")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ae3254ebc2ed3c0c511c6f"), 
+    "seller_id" : ObjectId("58a26d83130bee20d046bac8"), 
+    "user_id" : ObjectId("58a4224b6f03d330149966f0"), 
+    "orderTime" : 1487811156576.0, 
+    "sumPrice" : NumberInt(128), 
+    "address" : "李佳慧 女士 13760173067\n\r深圳市南山区深职院北校区a523", 
+    "status" : NumberInt(2), 
+    "deliveryTime" : 1487811158563.0, 
+    "foods" : [
+        {
+            "name" : "1A185榴芒双拼", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(128), 
+            "_id" : ObjectId("58ae3254ebc2ed3c0c511c70")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ae3291ebc2ed3c0c511c71"), 
+    "seller_id" : ObjectId("58a26d83130bee20d046baa4"), 
+    "user_id" : ObjectId("58a4224b6f03d330149966f0"), 
+    "orderTime" : 1487811217760.0, 
+    "sumPrice" : NumberInt(45), 
+    "address" : "李佳慧 女士 13760173067\n\r深圳市南山区深职院北校区a523", 
+    "status" : NumberInt(2), 
+    "deliveryTime" : 1487811322756.0, 
+    "foods" : [
+        {
+            "name" : "捞面牛肉丸汤", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(20), 
+            "_id" : ObjectId("58ae3291ebc2ed3c0c511c73")
+        }, 
+        {
+            "name" : "捞面猪杂汤", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(20), 
+            "_id" : ObjectId("58ae3291ebc2ed3c0c511c72")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ae32abebc2ed3c0c511c75"), 
+    "seller_id" : ObjectId("58a26d83130bee20d046bac5"), 
+    "user_id" : ObjectId("58a4224b6f03d330149966f0"), 
+    "orderTime" : 1487811243688.0, 
+    "sumPrice" : NumberInt(18), 
+    "address" : "李佳慧 女士 13760173067\n\r深圳市南山区深职院北校区a523", 
+    "status" : NumberInt(2), 
+    "deliveryTime" : 1487811338933.0, 
+    "foods" : [
+        {
+            "name" : "汤面", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(12), 
+            "_id" : ObjectId("58ae32abebc2ed3c0c511c77")
+        }, 
+        {
+            "name" : "维他柠檬茶", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(4), 
+            "_id" : ObjectId("58ae32abebc2ed3c0c511c76")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ae32b7ebc2ed3c0c511c78"), 
+    "seller_id" : ObjectId("58a26d83130bee20d046babb"), 
+    "user_id" : ObjectId("58a4224b6f03d330149966f0"), 
+    "orderTime" : 1487811255640.0, 
+    "sumPrice" : NumberInt(316), 
+    "address" : "李佳慧 女士 13760173067\n\r深圳市南山区深职院北校区a523", 
+    "status" : NumberInt(2), 
+    "deliveryTime" : 1487811367868.0, 
+    "foods" : [
+        {
+            "name" : "莳萝芦笋珍鲑意面", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(27), 
+            "_id" : ObjectId("58ae32b7ebc2ed3c0c511c7b")
+        }, 
+        {
+            "name" : "双人分享套餐A", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(139), 
+            "_id" : ObjectId("58ae32b7ebc2ed3c0c511c7a")
+        }, 
+        {
+            "name" : "双人分享套餐B", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(145), 
+            "_id" : ObjectId("58ae32b7ebc2ed3c0c511c79")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ae32c0ebc2ed3c0c511c7c"), 
+    "seller_id" : ObjectId("58a26d83130bee20d046bab7"), 
+    "user_id" : ObjectId("58a4224b6f03d330149966f0"), 
+    "orderTime" : 1487811264710.0, 
+    "sumPrice" : NumberInt(58), 
+    "address" : "李佳慧 女士 13760173067\n\r深圳市南山区深职院北校区a523", 
+    "status" : NumberInt(0), 
+    "deliveryTime" : NumberInt(0), 
+    "foods" : [
+        {
+            "name" : "原味珍珠奶茶", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(15), 
+            "_id" : ObjectId("58ae32c0ebc2ed3c0c511c7f")
+        }, 
+        {
+            "name" : "熊猫奶盖茶", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(19), 
+            "_id" : ObjectId("58ae32c0ebc2ed3c0c511c7e")
+        }, 
+        {
+            "name" : "熊猫奶盖茶", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(19), 
+            "_id" : ObjectId("58ae32c0ebc2ed3c0c511c7d")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b4d68a977aa426a491f43d"), 
+    "seller_id" : ObjectId("58a26d83130bee20d046bad2"), 
+    "user_id" : ObjectId("58b4d052977aa426a491f43b"), 
+    "orderTime" : 1488246410858.0, 
+    "sumPrice" : NumberInt(64), 
+    "address" : "李 女士 1234567890\n\r王企鹅无群", 
+    "status" : NumberInt(2), 
+    "deliveryTime" : 1488248504841.0, 
+    "foods" : [
+        {
+            "name" : "什锦石锅拌饭", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(18), 
+            "_id" : ObjectId("58b4d68a977aa426a491f440")
+        }, 
+        {
+            "name" : "泡菜炒饭", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(18), 
+            "_id" : ObjectId("58b4d68a977aa426a491f43f")
+        }, 
+        {
+            "name" : "肥牛石锅拌饭", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(25), 
+            "_id" : ObjectId("58b4d68a977aa426a491f43e")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b4deef977aa426a491f443"), 
+    "seller_id" : ObjectId("58a26d83130bee20d046babb"), 
+    "user_id" : ObjectId("58b4d052977aa426a491f43b"), 
+    "orderTime" : 1488248559666.0, 
+    "sumPrice" : NumberInt(776), 
+    "address" : "李 女士 1234567890\n\r王企鹅无群", 
+    "status" : NumberInt(2), 
+    "deliveryTime" : 1488248563342.0, 
+    "foods" : [
+        {
+            "name" : "莳萝芦笋珍鲑意面", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(27), 
+            "_id" : ObjectId("58b4deef977aa426a491f44c")
+        }, 
+        {
+            "name" : "双人分享套餐A", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(139), 
+            "_id" : ObjectId("58b4deef977aa426a491f44b")
+        }, 
+        {
+            "name" : "双人分享套餐B", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(145), 
+            "_id" : ObjectId("58b4deef977aa426a491f44a")
+        }, 
+        {
+            "name" : "双人分享套餐C", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(159), 
+            "_id" : ObjectId("58b4deef977aa426a491f449")
+        }, 
+        {
+            "name" : "西班牙风情海鲜意面", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(39), 
+            "_id" : ObjectId("58b4deef977aa426a491f448")
+        }, 
+        {
+            "name" : "阳光意式热辣面", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(34), 
+            "_id" : ObjectId("58b4deef977aa426a491f447")
+        }, 
+        {
+            "name" : "海鲜至尊比萨", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(78), 
+            "_id" : ObjectId("58b4deef977aa426a491f446")
+        }, 
+        {
+            "name" : "加州风情香烤牛肉比萨", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(78), 
+            "_id" : ObjectId("58b4deef977aa426a491f445")
+        }, 
+        {
+            "name" : "新奥尔良风情烤肉比萨", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(72), 
+            "_id" : ObjectId("58b4deef977aa426a491f444")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b4e4c1977aa426a491f450"), 
+    "seller_id" : ObjectId("58a26d83130bee20d046baa4"), 
+    "user_id" : ObjectId("58b4d052977aa426a491f43b"), 
+    "orderTime" : 1488250049518.0, 
+    "sumPrice" : NumberInt(30), 
+    "address" : "李 女士 1234567890\n\r王企鹅无群", 
+    "status" : NumberInt(1), 
+    "deliveryTime" : 1488250051890.0, 
+    "foods" : [
+        {
+            "name" : "叉烧饭+猪肉丸汤", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(25), 
+            "_id" : ObjectId("58b4e4c1977aa426a491f451")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b52a60977aa426a491f455"), 
+    "seller_id" : ObjectId("58b383ca4bbdca0b0468bf87"), 
+    "user_id" : ObjectId("58b52a24977aa426a491f453"), 
+    "orderTime" : 1488267871989.0, 
+    "sumPrice" : 154.56, 
+    "address" : "李嘉慧 女士 13760173057\n\r深圳市福田区人民医院", 
+    "status" : NumberInt(0), 
+    "deliveryTime" : NumberInt(0), 
+    "foods" : [
+        {
+            "name" : "奶油草莓（盒装）", 
+            "count" : NumberInt(4), 
+            "price" : 19.89, 
+            "_id" : ObjectId("58b52a60977aa426a491f458")
+        }, 
+        {
+            "name" : "西瓜大果盒（4-6人份）", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(37), 
+            "_id" : ObjectId("58b52a60977aa426a491f457")
+        }, 
+        {
+            "name" : "紫薯营养沙拉", 
+            "count" : NumberInt(1), 
+            "price" : NumberInt(20), 
+            "_id" : ObjectId("58b52a60977aa426a491f456")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
